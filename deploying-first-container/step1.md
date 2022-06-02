@@ -7,3 +7,5 @@ Find existing images at https://registry.hub.docker.com/
 $docker search redis
 $docker run -d redis:latest
 ```
+`docker search redis\n\n'`{{execute}}
+`docker run -d redis:latest\n\n'`{{execute}}
